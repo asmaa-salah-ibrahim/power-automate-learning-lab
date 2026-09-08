@@ -7,6 +7,14 @@ created to strengthen my automation skills and deepen my understanding of
 Power Platform concepts after earning the PL-200 certification.
 
 ---
+## 🏆 Certification
+
+**Microsoft Certified: Power Platform Functional Consultant Associate**
+
+- Exam: PL-200
+- Status: Certified
+- [View PL-200 Certification & Journey](https://github.com/asmaa-salah-ibrahim/PL-200-Power-Platform-Journey/tree/main/PL-200%20Certification)
+---
 
 ## 🎯 Learning Goals
 

@@ -2,9 +2,9 @@
 
 Hands-on learning and practice repository for Microsoft Power Automate.
 
-This repository documents my practical learning journey with Power Automate,
-created to strengthen my automation skills and deepen my understanding of
-Power Platform concepts after earning the PL-200 certification.
+This repository documents my hands-on learning journey with Power Automate,
+focused on strengthening my automation skills and applying Power Platform
+concepts through practical scenarios after earning the PL-200 certification.
 
 ---
 ## 🏆 Certification
